@@ -27,7 +27,7 @@
     "prop-types": "15.x.x",
     "glamorous-native": "1.4.2",
     "react-navigation": "3.0.9",
-    "react-native-fbsdk": "0.8.0",
+    "react-native-fbsdk": "3.0.0",
     "react-navigation-material-bottom-tabs": "^2.2.12",
     "react-navigation-stack": "^2.5.0",
     "react-navigation-tabs": "^2.8.13",
